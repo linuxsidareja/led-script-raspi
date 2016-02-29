@@ -9,7 +9,7 @@ GPIO.setmode(GPIO.BCM)
 
 # init list with pin numbers
 
-pinList = [27, 17]
+pinList = [15, 16, 21, 26]
 
 # loop through pins and set mode and state to 'low'
 
